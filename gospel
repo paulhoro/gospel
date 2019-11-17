@@ -1,25 +1,27 @@
-<channels>
+﻿<channels>
 <channel>
-<name>[COLOR indigo]|[/COLOR][COLOR deeppink]|[/COLOR][COLOR orangered]|[/COLOR] [COLOR white]NEW HOPE - ADDON TESTE[/COLOR] [COLOR orangered]|[/COLOR][COLOR deeppink]|[/COLOR][COLOR indigo]|[/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink>http://cdnfe2.azureedge.net/RCServer01/videos/HEROEST01EP01.mp4?attachment=true</externallink>
-<fanart></fanart>
-<info> [COLOR deeppink]|[/COLOR] - MUITO CONTEUDO GOSPEL- [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[COLOR indigo]|[/COLOR][COLOR deeppink]|[/COLOR][COLOR orangered]||[/COLOR] [COLOR white]ENTRE AQUI[/COLOR] [COLOR orangered]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR indigo]||[/COLOR]</name>
-<thumbnail></thumbnail>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]HOPEADDON[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia601400.us.archive.org/6/items/fundo_201910/hopeaddon.png</thumbnail>
 <externallink>https://</externallink>
-<fanart></fanart>
+<fanart>https://ia601400.us.archive.org/6/items/fundo_201910/fundo.jpg</fanart>
 <info>
-[COLOR deeppink]|[/COLOR] - ADICIONE AQUI A DESCRIÇÃO - [COLOR deeppink]|[/COLOR]</info>
+
+[COLOR deeppink]|[/COLOR] - ESPERANCA PARA UM FURUTO MELHOR - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-Menu
+
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]MENU[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia601400.us.archive.org/6/items/fundo_201910/menu.png</thumbnail>
+<externallink>https://pastebin.com/raw/B85juKCG</externallink>
+<fanart>https://ia601400.us.archive.org/6/items/fundo_201910/fundo.jpg</fanart>
+<info>
+
+[COLOR deeppink]|[/COLOR] - ENCONTRE O CONTEUDO NESTE MENU - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
