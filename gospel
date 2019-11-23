@@ -1,27 +1,74 @@
-﻿<channels>
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]HOPEADDON[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia601400.us.archive.org/6/items/fundo_201910/hopeaddon.png</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://ia601400.us.archive.org/6/items/fundo_201910/fundo.jpg</fanart>
-<info>
-
-[COLOR deeppink]|[/COLOR] - ESPERANCA PARA UM FURUTO MELHOR - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
 <channels>
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]MENU[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia601400.us.archive.org/6/items/fundo_201910/menu.png</thumbnail>
-<externallink>http://</externallink>
-<fanart>https://ia601400.us.archive.org/6/items/fundo_201910/fundo.jpg</fanart>
-<info>
+    <channels_info>
+      <title>Testing XML</title> 
+      <genre>News</genre>
+      <description></description>
+      <thumbnail>http://</thumbnail>
+      <fanart>http://</fanart>
+      <date>04.01.2013</date>
+    </channels_info>
+    
+    <channel>
+    <name>News</name>
+    <thumbnail>http://</thumbnail>
+    <fanart>http://</fanart>
+        <items>
+            <item>
+                <title>POKER CHANNEL</title>
+                <link>  </link>
+                <thumbnail>http://</thumbnail>
+                <genre>Poker</genre>
+                <info>  </info>
+                <date>07.12.2011</date> 
+                
+                <fanart>http://</fanart>
+            </item>
+            
+            <item>
+                <title>News 4</title>         
+                <link>=true live=true</link>
+                <thumbnail>C:\\</thumbnail>
+            </item>
+        </items>
+    </channel>
 
-[COLOR deeppink]|[/COLOR] - ENCONTRE O CONTEUDO NESTE MENU - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
+    <channel>
+    <name>Television</name>
+    <thumbnail>http://</thumbnail>
+    <fanart>http://</fanart>
+    <subchannel>
+        <name>Tv 1</name>
+        <thumbnail>http://</thumbnail>
+        <fanart>http://</fanart>
+            <subitems>
+                <subitem>
+                <title>tv1-1</title>
+                <link>mms://</link>
+                <thumbnail>http:// </thumbnail>
+                </subitem>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                <subitem>
+                <title>tv1-2</title>
+                <link>http://.mp4</link>
+                <thumbnail>http://</thumbnail>
+                </subitem>
+            </subitems>	
+        </channel>
+    </subchannel>
+    
+    <items>
+        <item>
+        <title>FILM 4</title>
+        <link>mms://some/place</link>
+        <thumbnail>http:// </thumbnail>
+        </item>
+
+        <item>
+        <title>CHANNEL 4</title>
+        <link>http://.mp4</link>
+        <thumbnail>http://</thumbnail>
+        </item>
+    </items>	
+    </channel>
+
+</channels>	
