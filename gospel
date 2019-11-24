@@ -1,4 +1,5 @@
-    <channels_inf
+    <channels>
+    <channels_inf>
       <title>Testing XML</title> 
       <genre>News</genre>
       <description></description>
