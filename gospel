@@ -1,5 +1,5 @@
     <channels>
-    <channels_inf>
+    <channel>
       <title>Testing XML</title> 
       <genre>News</genre>
       <description></description>
@@ -7,10 +7,8 @@
       <externallink>http://</externallink>
       <fanart>http://</fanart>
       <date>04.01.2013</date>
+      <channels_info>
     </channels_info>
+    </channel>
     </channels>
-    <channel>
-    <name>News</name>
-    <thumbnail>http://</thumbnail>
-    <fanart>http://</fanart>
     
