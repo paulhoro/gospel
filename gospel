@@ -1,14 +1,12 @@
-    <channels>
-    <channel>
-      <title>Testing XML</title> 
-      <genre>News</genre>
-      <description></description>
-      <thumbnail>http://</thumbnail>
-      <externallink>http://</externallink>
-      <fanart>http://</fanart>
-      <date>04.01.2013</date>
-      <channels_info>
-    </channels_info>
-    </channel>
-    </channels>
-    
+<channels>
+<channel>
+<name>[COLOR indigo]***[/COLOR][COLOR deeppink]***[/COLOR][COLOR orangered]***[/COLOR] [COLOR white]HOPEADDON[/COLOR] [COLOR orangered]***[/COLOR][COLOR deeppink]***[/COLOR][COLOR indigo]***[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>http://</externallink>
+<fanart></fanart>
+<info>
+[COLOR deeppink]***[/COLOR] - ESPERANCA PARA UM FURUTO MELHOR - [COLOR deeppink]***[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
